@@ -1,0 +1,9 @@
+{
+  "name": "vibrobeast-skills",
+  "description": "The vibrobeast skills alone: written ways of working Claude reads when a task calls for them. Starts no server.",
+  "owner": {"name": "inputloop (Corwin Brust and Bryant Frankford)", "email": "corwin@bru.st"},
+  "plugins": [
+    {"name": "vibrobeast-skills", "source": "./",
+     "description": "The skills alone, for chat, Cowork and Claude Code. Starts no server."}
+  ]
+}
